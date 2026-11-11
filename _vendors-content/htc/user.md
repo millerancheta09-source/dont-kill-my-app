@@ -1,4 +1,5 @@
----
+ns cmo se ase
+ajajjaja---
 manufacturer:
     - htc
 
